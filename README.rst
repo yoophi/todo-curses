@@ -13,4 +13,4 @@ Installation
 
 ::
 
-  pip install todo-curses
+  python setup.py install
